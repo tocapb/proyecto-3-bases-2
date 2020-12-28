@@ -1,13 +1,13 @@
 ----------------------------------------------------------------
-Sat Dec 26 14:13:41 CST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0176-a0af-71bc-0000028558c0 
-on database directory /home/jeremy/Escritorio/proyecto-3-bases-2/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Mon Dec 28 09:23:27 CST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0176-a9f2-7218-00001a9125d0 
+on database directory /home/randall/Desktop/proyecto_bases_3/proyecto-3-bases-2/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@2a4583fd 
 Loaded from file:/usr/lib/spark-3.0.1-bin-hadoop2.7/jars/derby-10.12.1.1.jar
-java.vendor=Ubuntu
-java.runtime.version=11.0.9.1+1-Ubuntu-0ubuntu1.20.04
-user.dir=/home/jeremy/Escritorio/proyecto-3-bases-2
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-8u171-b11-2-b11
+user.dir=/home/randall/Desktop/proyecto_bases_3/proyecto-3-bases-2
 os.name=Linux
 os.arch=amd64
-os.version=5.4.0-58-generic
+os.version=4.15.0-29deepin-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
